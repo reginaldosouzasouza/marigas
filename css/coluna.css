@@ -1,0 +1,158 @@
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+    line-height: 300%;
+}
+
+.cor1 {
+    background-color: brown;
+}
+
+.cor2 {     
+    background-color: blue;
+}
+
+.corpo {
+    background-color:#f3a36b;
+    
+}
+
+.margembusca {
+    margin-top: 80px; 
+  
+}
+ 
+.margemlogo {
+    margin-top: 20px;
+    width:150px;
+    
+}
+
+input.search-query{
+    padding: 15px;
+    
+}
+
+.menu {
+    background-color: blue;
+    color:#ffffff;
+    margin-top: 20px;
+   
+    
+}
+
+.listamenu {
+    font-size: 1.5rem;
+    font-weight: bolder;
+    padding-top: 10px;
+   
+    text-align: center;
+}
+
+.banner {
+    margin: 30px;  
+    
+}
+
+.noticias1 {
+    /* text-align: justify; */
+
+}
+ 
+.not_texto1  {
+    margin-top: 15px;
+    font-size: 1.5rem;
+}
+
+.not_texto2 {
+    margin-top: 15px;
+    font-size: 1.5rem;
+}
+
+.nome_empresa {
+    color:blueviolet;
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+.rodape {
+    background-color: aquamarine;
+}
+
+.endereco h3 {
+    text-align: center;
+    font-size: 1.3rem;
+
+}
+
+.redessociais {
+   /*  justify-content: center;  */
+    display:flex;
+   padding-right: 80px;
+    flex-direction:row;
+    
+}
+ a :hover {
+    background-color:brown;
+ }
+
+ @media screen and (max-width:599px) {
+   .btn {
+        background-color: black;
+        color:brown;
+        font-weight: bolder;
+        font-size: 1rem;
+      
+   
+       
+      
+    }
+    
+ }
+
+/* @media (max-width:600px) {
+    body {
+        background-color:black;
+    }
+} */
+
+
+
+.ico {
+    color:#c1c1c1;
+}
+
+.ico:hover {
+    color:#000000
+}
+
+.face {
+    color:brown;
+
+}
+.what {
+    color:#808000;
+}
+
+span {
+    color:#c1c1c1;
+    text-transform: uppercase;
+}
+
+
+
+.col1 {
+ background-color: red;
+}
+
+.col2 {
+    background-color: rgb(221, 249, 6);
+   }
+
+   .col3 {
+    background-color: rgb(50, 7, 241);
+   }
+   
+   .col4 {
+       background-color: rgb(235, 8, 140);
+      }

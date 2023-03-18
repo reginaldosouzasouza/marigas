@@ -1,0 +1,135 @@
+body {
+    background-color:#e5e5e5;
+}
+
+.menu_lateral_fundo {
+    background: #111111;
+    color: #ffffff;
+}
+
+.logo{
+    width: 150px;
+    height: 150px;
+
+    margin-left: 60px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    border: 2px solid;
+    border-radius: 150%;
+   
+}
+.menu_lateral_fundo  h1 {
+    color: #999999;
+    padding-left: 80px;
+    font-size: 20px;
+    margin-top: -20px;
+}
+ 
+  
+
+
+.menu_lateral_fundo i {
+width:40px;
+}
+
+.linha, .linhaFinal{
+    border-bottom: 1px dotted #ffffff;
+    padding: 15px 0 15px 30px;
+}    
+
+li.linha a, li.linhaFinal a {
+    color: #ffffff;
+    margin-left: 10px;
+}
+
+li.linha a:hover, li.linhaFinal a:hover{
+    color: red;
+    text-decoration: none;
+}
+
+.linhaFinal{
+    border-bottom: 0;
+}
+
+li.linhaSpace{
+    padding: 45px 0 0 25px;
+}
+
+li.linha b, li.linhaSpace b {
+    color:red;
+}
+
+.painel {
+    background-color:#e5e5e5;
+    color:#111111;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-size: 1rem;
+}
+.painel h3 {
+    padding: 0 0 0 15px;
+}
+.painel p {
+    padding: 18px 0 0 0;
+}
+.rg h1 {
+    background-color: #fff;
+    text-align: center;
+    margin-bottom: 15px;
+    
+}
+
+.resultado {   /* receitas, despesas e saldo*/
+    background-color: bisque;
+    text-align: center;
+    margin-bottom: 45px;
+    
+
+}
+
+.resultado2 {   /* vendas de gás e agua*/
+    background-color: rgb(134, 143, 154);
+    text-align: center;
+    margin-bottom: 45px;
+}
+.despesas {
+  /*  background-color: rgba(228, 94, 94, 0.364);*/
+}
+.comparacaomes {
+    background-color: #e5e5e5;
+    text-align: center;
+}
+.comparacaomesatual {
+    background-color: rgba(22, 75, 197, 0.407);
+    text-align: center;
+}
+.comparacaomesanterior {
+    background-color: rgba(172, 197, 90, 0.242);
+    text-align: center;
+}
+
+footer {
+    background-color: #222222;
+    color:#999999;
+    font-size:17pt;
+    margin-top: 20px;
+    padding:30px 0 50px 0;
+}
+
+footer a {
+    color:#111111;
+    margin-left: 10px;
+    padding: 5px;
+}
+
+footer a{
+    color:#999999;
+}
+
+footer a:hover{
+    color: red;
+    text-decoration: none;
+}    
+
+
+  
